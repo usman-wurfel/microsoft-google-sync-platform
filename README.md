@@ -1,4 +1,4 @@
-# Microsoft / Google User Sync & Security Integrations
+# Microsoft & Google Sync Platform
 
 Laravel platform for **directory user sync** and Microsoft 365 security integrations — Azure AD / Google Workspace sync, Graph mail delivery, Outlook phishing reporting, and automated allowlisting.
 
