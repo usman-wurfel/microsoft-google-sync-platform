@@ -65,7 +65,7 @@ curl -X POST http://localhost:8000/api/phishing/report \
 
 **Domains Allowlisted:**
 - phin.security
-- webexert.us
+- example.com
 - localhost
 
 ---

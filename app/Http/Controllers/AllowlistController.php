@@ -133,7 +133,7 @@ class AllowlistController extends Controller
             
             $allowlistDomains = $customDomains ? (is_array($customDomains) ? $customDomains : explode(',', $customDomains)) : [
                 'phin.security',
-                'webexert.us',
+                'example.com',
                 'localhost'
             ];
             

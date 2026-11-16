@@ -24,7 +24,7 @@
 
                         <div class="mb-3">
                             <label for="domains" class="form-label fw-bold">Domains (Comma separated)</label>
-                            <textarea id="domains" class="form-control" rows="3" placeholder="example.com, test.com">phin.security, webexert.us, localhost</textarea>
+                            <textarea id="domains" class="form-control" rows="3" placeholder="example.com, test.com">phin.security, example.com, localhost</textarea>
                             <small class="text-muted">These domains will be added to the allowlist.</small>
                         </div>
 
